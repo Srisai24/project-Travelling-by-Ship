@@ -39,11 +39,6 @@ function draw() {
    if (sea.x < 0) {
     sea.x = sea.width / 10
   }
-}
   
-
-
-
-
   drawSprites();
 }
